@@ -20,7 +20,7 @@ This activity starts at 12:01am GMT on Nov 1st and ends at 12:01am GMT Dec 1st.
 
 ## How to Participate
 
-Open an issue on this repo and declare your intent to participate. You may continually update the issue as you work over the course of the month. Feel free to post dev diaries, sample output, etc.
+[Open an issue](https://github.com/dariusk/NaNoGenMo-2015/issues/new) on this repo and declare your intent to participate. You may continually update the issue as you work over the course of the month. Feel free to post dev diaries, sample output, etc.
 
 Also feel free to comment on other participants' issues.
 
