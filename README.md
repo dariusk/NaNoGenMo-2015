@@ -10,7 +10,7 @@ Spend the month of November writing code that generates a novel of 50k+ words. T
 
 The only rule is that you share at least one novel and also your source code at the end.
 
-The source code does not have to be licensed in a particular way, so long as you share it. The code itself does not need to be on GitHub, either. I'm just using this repo as a place to organize the community. (Convenient because many programmers have Github accounts and the Issues section works like a forum with excellent syntax highlighting.)
+The source code does not have to be licensed in a particular way, so long as you share it. The code itself does not need to be on GitHub, either. I'm just using this repo as a place to organize the community. (Convenient because many programmers have GitHub accounts and the Issues section works like a forum with excellent syntax highlighting.)
 
 The "novel" is defined however you want. It could be 50,000 repetitions of the word "meow". It could literally grab a random novel from Project Gutenberg. It doesn't matter, as long as it's 50k+ words.
 
