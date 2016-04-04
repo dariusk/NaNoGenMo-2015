@@ -20,9 +20,9 @@ This activity starts at 12:01am GMT on Nov 1st and ends at 12:01am GMT Dec 1st.
 
 ## How to Participate
 
-[Open an issue](https://github.com/dariusk/NaNoGenMo-2015/issues/new) on this repo and declare your intent to participate. _If you already have some inkling of the kind of project you'll be doing, please title your issue accordingly._ You may continually update the issue as you work over the course of the month. Feel free to post dev diaries, sample output, etc.
+[Open an issue](../../issues/new) on this repo and declare your intent to participate. _If you already have some inkling of the kind of project you'll be doing, please title your issue accordingly._ You may continually update the issue as you work over the course of the month. Feel free to post dev diaries, sample output, etc.
 
-Also feel free to comment on other participants' issues.
+Also feel free to comment on [other participants' issues](../../issues).
 
 ## Admins
 
@@ -30,7 +30,7 @@ Official admins for NaNoGenMo are @dariusk and @hugovk. We'll be doing our best 
 
 ## Resources
 
-There's [an open issue](https://github.com/dariusk/NaNoGenMo-2015/issues/1) where you can add resources (libraries, corpuses, APIs, techniques, etc).
+There's [an open issue](../../issues/1) where you can add resources (libraries, corpuses, APIs, techniques, etc).
 
 There are already a ton of resources on the old resources threads for the  [2013 edition](https://github.com/dariusk/NaNoGenMo/issues/11) and the [2014 edition](https://github.com/dariusk/nanogenmo-2014/issues/1).
 
