@@ -1,3 +1,5 @@
+# _This is for the 2015 NaNoGenMo. [See here](https://github.com/NaNoGenMo/2016) for the 2016 repo!_
+
 # NaNoGenMo 2015
 
 National Novel Generation Month - based on [an idea I tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168). This is the 2015 edition. You can check out the [2014](https://github.com/dariusk/NaNoGenMo-2014) and [2013](https://github.com/dariusk/NaNoGenMo) editions if you like.
