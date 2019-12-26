@@ -2,7 +2,21 @@
 
 # NaNoGenMo 2015
 
-National Novel Generation Month - based on [an idea I tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168). This is the 2015 edition. You can check out the [2014](https://github.com/dariusk/NaNoGenMo-2014) and [2013](https://github.com/dariusk/NaNoGenMo) editions if you like.
+[![entries: completed][~completed]](https://github.com/dariusk/NaNoGenMo-2015/labels/completed)
+[![entries: preview][~preview]](https://github.com/dariusk/NaNoGenMo-2015/labels/preview)
+[![issues: admin][~admin]](https://github.com/dariusk/NaNoGenMo-2015/labels/admin)
+[![twitter: nanogenmobot][~twitter]](https://twitter.com/nanogenmobot)
+
+[~completed]: https://img.shields.io/badge/entries-completed-0e8a16.svg
+[~preview]: https://img.shields.io/badge/entries-preview-c5def5.svg
+[~admin]: https://img.shields.io/badge/issues-admin-fef2c0.svg
+[~twitter]: https://img.shields.io/badge/twitter-NaNoGenMoBot-00aced.svg?logo=twitter
+
+National Novel Generation Month - based on [an idea I tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168).
+
+<p align="center"><a href="https://twitter.com/tinysubversions/status/396305662000775168"><img src="https://nanogenmo.github.io/tweet.png" width="600" height="338" alt="Hey, who wants to join me in NaNoGenMo: spend the month writing code that generates a 50k word novel, share the novel & the code at the end"></a></p>
+
+This is the 2015 edition. You can check out the [2014](https://github.com/dariusk/NaNoGenMo-2014) and [2013](https://github.com/dariusk/NaNoGenMo) editions if you like.
 
 ## The Goal
 
