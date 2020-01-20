@@ -2,9 +2,9 @@
 
 # NaNoGenMo 2015
 
-[![entries: completed][~completed]](https://github.com/dariusk/NaNoGenMo-2015/labels/completed)
-[![entries: preview][~preview]](https://github.com/dariusk/NaNoGenMo-2015/labels/preview)
-[![issues: admin][~admin]](https://github.com/dariusk/NaNoGenMo-2015/labels/admin)
+[![entries: completed][~completed]](https://github.com/NaNoGenMo/2015/issues?q=label%3Acompleted)
+[![entries: preview][~preview]](https://github.com/NaNoGenMo/2015/issues?q=label%3Apreview)
+[![issues: admin][~admin]](https://github.com/NaNoGenMo/2015/issues?q=label%3Aadmin)
 [![twitter: nanogenmobot][~twitter]](https://twitter.com/nanogenmobot)
 
 [~completed]: https://img.shields.io/badge/entries-completed-0e8a16.svg
